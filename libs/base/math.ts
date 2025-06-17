@@ -23,6 +23,9 @@ namespace Math {
     //% blockIdentity="Math._constant"
     //% block="√2"
     export const SQRT2 = 1.4142135623730951;
+    //% blockIdentity="Math._constant"
+    //% block="∞"
+    export const INFINITY = 1.7976931348623157e+308;
 
     /**
      * Re-maps a number from one range to another. That is, a value of ``from low`` would get mapped to ``to low``, a value of ``from high`` to ``to high``, values in-between to values in-between, etc.
